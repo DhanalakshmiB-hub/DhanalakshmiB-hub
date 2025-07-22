@@ -5,6 +5,7 @@
 🛠️ Aspiring Backend Developer  
 🌍 Dreaming to work in Italy  
 📚 I love building small projects & learning daily!  
-📫 How to reach me: dhanalakshmib07@gmail.com
+📫 How to reach me: 📧 Email: dhanalakshmib07@gmail.com 
+                    💼 LinkedIn: linkedin.com/in/dhanalakshmibaskar
 
 Let's grow, one line of code at a time. 🌱
