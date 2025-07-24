@@ -2,7 +2,7 @@
 
 🎓 MCA Student  
 💻 Learning Python & Java  
-🛠️ Aspiring Backend Developer  
+🛠️ Aspiring Software Developer  
 🌍 Dreaming to work in Italy  
 📚 I love building small projects & learning daily!  
 📫 How to reach me: 📧 Email: dhanalakshmib07@gmail.com 
